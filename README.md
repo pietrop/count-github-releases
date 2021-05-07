@@ -27,7 +27,7 @@ npm install
 ## Usage
 
 ```
-node src/example-usage.js
+npm run serve
 ```
 
 <!-- ## System Architecture -->
