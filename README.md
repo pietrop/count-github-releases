@@ -30,6 +30,8 @@ npm install
 npm run serve
 ```
 
+Then visit [http://localhost:8000](http://localhost:8000)
+
 <!-- ## System Architecture -->
 
 <!-- _High level overview of system architecture_ -->
