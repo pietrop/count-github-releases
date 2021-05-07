@@ -5,7 +5,7 @@ _Screenshot of UI - optional_ -->
 
 Node module to count the github downloads from a project release, via the github api. [based on this blog post](https://pietropassarelli.com/ttqf/2016/05/26/how_to_find_out_github_release_downloads/)
 
-This might only work with [autoEdit2/3](https://www.autoedit.io) github repos releases, due to how the data is structured. But could maybe be forked to make more general etc...
+<!-- This might only work with [autoEdit2/3](https://www.autoedit.io) github repos releases, due to how the data is structured. But could maybe be forked to make more general etc... -->
 
 ## Setup
 
