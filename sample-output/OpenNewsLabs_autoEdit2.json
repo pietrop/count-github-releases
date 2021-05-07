@@ -1,0 +1,656 @@
+{
+  "total": 8281,
+  "totalList": [
+    0,
+    1145,
+    179,
+    389,
+    38,
+    54,
+    1975,
+    147,
+    198,
+    296,
+    145,
+    116,
+    9,
+    12,
+    81,
+    48,
+    9,
+    74,
+    354,
+    25,
+    214,
+    32,
+    78,
+    1139,
+    151,
+    790,
+    185,
+    334,
+    50,
+    14
+  ],
+  "releases": [
+    {
+      "name": "autoEdit3 ",
+      "published_at": "2021-05-07T01:04:38Z",
+      "assets": [],
+      "total": 0
+    },
+    {
+      "name": "1.0.24",
+      "published_at": "2020-04-06T18:09:04Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.24-mac.zip",
+          "download_count": 109,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.24-x86_64.AppImage",
+          "download_count": 875,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.24.exe",
+          "download_count": 142,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 7,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 12,
+          "os": "NA"
+        }
+      ],
+      "total": 1145
+    },
+    {
+      "name": "1.0.23",
+      "published_at": "2020-01-24T03:57:38Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.23-mac.zip",
+          "download_count": 57,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.23.exe",
+          "download_count": 101,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 9,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 12,
+          "os": "NA"
+        }
+      ],
+      "total": 179
+    },
+    {
+      "name": "1.0.22",
+      "published_at": "2020-01-03T13:43:22Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.22-mac.zip",
+          "download_count": 29,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.22-x86_64.AppImage",
+          "download_count": 287,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.22.exe",
+          "download_count": 35,
+          "os": "Windows exe"
+        },
+        {
+          "name": "com.autoedit2.it.zxp",
+          "download_count": 19,
+          "os": "Adobe CEP"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 11,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 8,
+          "os": "NA"
+        }
+      ],
+      "total": 389
+    },
+    {
+      "name": "1.0.21",
+      "published_at": "2020-01-03T13:21:44Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.21-mac.zip",
+          "download_count": 11,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.21.exe",
+          "download_count": 12,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 7,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 8,
+          "os": "NA"
+        }
+      ],
+      "total": 38
+    },
+    {
+      "name": "1.0.20",
+      "published_at": "2020-01-03T01:05:37Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.20-mac.zip",
+          "download_count": 11,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.20-x86_64.AppImage",
+          "download_count": 8,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.20.exe",
+          "download_count": 12,
+          "os": "Windows exe"
+        },
+        {
+          "name": "com.autoedit2.it.zxp",
+          "download_count": 9,
+          "os": "Adobe CEP"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 7,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 7,
+          "os": "NA"
+        }
+      ],
+      "total": 54
+    },
+    {
+      "name": "1.0.19",
+      "published_at": "2019-03-27T17:29:47Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.19-mac.zip",
+          "download_count": 484,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.19-x86_64.AppImage",
+          "download_count": 760,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.19.exe",
+          "download_count": 613,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 50,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 68,
+          "os": "NA"
+        }
+      ],
+      "total": 1975
+    },
+    {
+      "name": "1.0.18",
+      "published_at": "2019-03-11T22:28:07Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.18-mac.zip",
+          "download_count": 47,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.18-x86_64.AppImage",
+          "download_count": 40,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.18.exe",
+          "download_count": 48,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 6,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 6,
+          "os": "NA"
+        }
+      ],
+      "total": 147
+    },
+    {
+      "name": "1.0.17",
+      "published_at": "2018-11-19T19:45:15Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.17-mac.zip",
+          "download_count": 82,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.17-x86_64.AppImage",
+          "download_count": 31,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.17.exe",
+          "download_count": 60,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 14,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 11,
+          "os": "NA"
+        }
+      ],
+      "total": 198
+    },
+    {
+      "name": "1.0.16",
+      "published_at": "2018-10-01T12:03:42Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.16-mac.zip",
+          "download_count": 128,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.16-x86_64.AppImage",
+          "download_count": 57,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.16.exe",
+          "download_count": 90,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 13,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 8,
+          "os": "NA"
+        }
+      ],
+      "total": 296
+    },
+    {
+      "name": "1.0.15",
+      "published_at": "2018-09-09T18:41:33Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.15-mac.zip",
+          "download_count": 61,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.15-x86_64.AppImage",
+          "download_count": 25,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.15.exe",
+          "download_count": 38,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 12,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 9,
+          "os": "NA"
+        }
+      ],
+      "total": 145
+    },
+    {
+      "name": "1.0.14",
+      "published_at": "2018-09-06T19:25:55Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.14-mac.zip",
+          "download_count": 47,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.14-x86_64.AppImage",
+          "download_count": 26,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.14.exe",
+          "download_count": 24,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 9,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 10,
+          "os": "NA"
+        }
+      ],
+      "total": 116
+    },
+    {
+      "name": "autoEdit2 1.0.12 osx",
+      "published_at": "2018-09-06T19:07:46Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.12-mac.zip",
+          "download_count": 9,
+          "os": "mac zip"
+        }
+      ],
+      "total": 9
+    },
+    {
+      "name": "autoEdit2 1.0.12 linux",
+      "published_at": "2018-09-06T19:05:31Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.12-x86_64.AppImage",
+          "download_count": 12,
+          "os": "Linux AppImage"
+        }
+      ],
+      "total": 12
+    },
+    {
+      "name": "1.0.13",
+      "published_at": "2018-08-30T20:56:11Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.13-mac.zip",
+          "download_count": 27,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.13-x86_64.AppImage",
+          "download_count": 16,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.13.exe",
+          "download_count": 20,
+          "os": "Windows exe"
+        },
+        {
+          "name": "latest-linux.yml",
+          "download_count": 10,
+          "os": "NA"
+        },
+        {
+          "name": "latest-mac.yml",
+          "download_count": 8,
+          "os": "NA"
+        }
+      ],
+      "total": 81
+    },
+    {
+      "name": "autoEdit2 1.0.13 - Adobe CEP Panel",
+      "published_at": "2018-08-29T00:10:37Z",
+      "assets": [
+        {
+          "name": "com.autoedit2.it.zxp",
+          "download_count": 48,
+          "os": "Adobe CEP"
+        }
+      ],
+      "total": 48
+    },
+    {
+      "name": "autoEdit2 1.0.12 - Adobe CEP Panel ",
+      "published_at": "2018-08-23T16:36:24Z",
+      "assets": [
+        {
+          "name": "com.autoedit2.it.zxp",
+          "download_count": 9,
+          "os": "Adobe CEP"
+        }
+      ],
+      "total": 9
+    },
+    {
+      "name": "autoEdit_v2 1.0.11",
+      "published_at": "2018-07-12T22:04:46Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.11-mac.zip",
+          "download_count": 28,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.11.dmg",
+          "download_count": 46,
+          "os": "mac dmg"
+        }
+      ],
+      "total": 74
+    },
+    {
+      "name": "Windows autoEdit 2 1.0.10 - test",
+      "published_at": "2018-04-29T19:06:33Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.10.exe.zip",
+          "download_count": 354,
+          "os": "Windows exe"
+        }
+      ],
+      "total": 354
+    },
+    {
+      "name": "Linux",
+      "published_at": "2018-04-13T22:00:51Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.10-x86_64.AppImage",
+          "download_count": 25,
+          "os": "Linux AppImage"
+        }
+      ],
+      "total": 25
+    },
+    {
+      "name": "autoEdit_v2 1.0.10",
+      "published_at": "2018-04-13T22:05:00Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.10-mac.zip",
+          "download_count": 88,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.10.dmg",
+          "download_count": 126,
+          "os": "mac dmg"
+        }
+      ],
+      "total": 214
+    },
+    {
+      "name": "autoEdit_v2 1.0.9",
+      "published_at": "2018-04-09T08:26:07Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.9-mac.zip",
+          "download_count": 32,
+          "os": "mac zip"
+        }
+      ],
+      "total": 32
+    },
+    {
+      "name": "autoEdit_v2 1.0.8",
+      "published_at": "2018-04-07T02:23:07Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.8-mac.zip",
+          "download_count": 26,
+          "os": "mac zip"
+        },
+        {
+          "name": "autoEdit2-1.0.8-x86_64.AppImage",
+          "download_count": 32,
+          "os": "Linux AppImage"
+        },
+        {
+          "name": "autoEdit2-1.0.8.dmg",
+          "download_count": 20,
+          "os": "mac dmg"
+        }
+      ],
+      "total": 78
+    },
+    {
+      "name": "autoEdit_v2",
+      "published_at": "2017-06-06T10:46:38Z",
+      "assets": [
+        {
+          "name": "autoEdit2-1.0.7.dmg",
+          "download_count": 1000,
+          "os": "mac dmg"
+        },
+        {
+          "name": "autoEdit2.app.zip",
+          "download_count": 139,
+          "os": "mac zip"
+        }
+      ],
+      "total": 1139
+    },
+    {
+      "name": "autoEdit_v2",
+      "published_at": "2017-05-15T17:30:04Z",
+      "assets": [
+        {
+          "name": "autoEdit2_installer.dmg",
+          "download_count": 151,
+          "os": "mac dmg"
+        }
+      ],
+      "total": 151
+    },
+    {
+      "name": "autoEdit_v2 - pre-release",
+      "published_at": "2016-11-28T22:41:40Z",
+      "assets": [
+        {
+          "name": "autoEdit2_installer.dmg",
+          "download_count": 790,
+          "os": "mac dmg"
+        }
+      ],
+      "total": 790
+    },
+    {
+      "name": "autoEdit_v2 - pre-release",
+      "published_at": "2016-11-08T03:41:54Z",
+      "assets": [
+        {
+          "name": "autoEdit2_installer.dmg",
+          "download_count": 185,
+          "os": "mac dmg"
+        }
+      ],
+      "total": 185
+    },
+    {
+      "name": "autoEdit_v2 - pre-release",
+      "published_at": "2016-10-12T23:57:09Z",
+      "assets": [
+        {
+          "name": "autoEdit2_installer.dmg",
+          "download_count": 334,
+          "os": "mac dmg"
+        }
+      ],
+      "total": 334
+    },
+    {
+      "name": "autoEdit_v2 - pre-release",
+      "published_at": "2016-09-30T19:28:23Z",
+      "assets": [
+        {
+          "name": "autoEdit2.1.0.2.app.zip",
+          "download_count": 50,
+          "os": "mac zip"
+        }
+      ],
+      "total": 50
+    },
+    {
+      "name": "autoEdit_v2 - pre-release",
+      "published_at": "2016-09-28T20:44:30Z",
+      "assets": [
+        {
+          "name": "autoEdit2.1.0.1.app.zip",
+          "download_count": 14,
+          "os": "mac zip"
+        }
+      ],
+      "total": 14
+    }
+  ]
+}

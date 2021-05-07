@@ -54,12 +54,37 @@ const parseReleaseEntries = (releaseData) => {
   });
 };
 
+const overallTotalDownloadCount = (versions) => {
+  return versions
+    .map((d) => {
+      return d.total;
+    })
+    .reduce((acc, el) => {
+      return acc + el;
+    });
+};
+
+const overallTotalDownloadCountList = (versions) => {
+  return versions.map((d) => {
+    return d.total;
+  });
+  // .reduce((acc, el) => {
+  //   return acc + el;
+  // });
+};
+
 const getGithubReleaseData = ({ userName, repoName }) => {
   const URL = makeUrl({ userName, repoName });
   return fetch(URL)
     .then((res) => res.json())
     .then((json) => {
-      return parseReleaseEntries(json);
+      const releases = parseReleaseEntries(json);
+      return {
+        total: overallTotalDownloadCount(releases),
+        // the total for each release, across OS as a list
+        totalList: overallTotalDownloadCountList(releases),
+        releases,
+      };
     });
 };
 
