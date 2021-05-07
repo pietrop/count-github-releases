@@ -1,0 +1,310 @@
+[
+  {
+    "name": "1.1.3",
+    "published_at": "2019-10-18T08:18:23Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.1.3-x86_64.AppImage",
+        "download_count": 3,
+        "os": "Linux AppImage"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.1.3.dmg",
+        "download_count": 26,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.1.3.dmg.blockmap",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 2,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 2,
+        "os": "NA"
+      }
+    ],
+    "total": 34
+  },
+  {
+    "name": "1.1.2",
+    "published_at": "2019-10-17T08:42:11Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.1.2.dmg.blockmap",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.1.2.exe",
+        "download_count": 12,
+        "os": "Windows exe"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 1,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 1,
+        "os": "NA"
+      }
+    ],
+    "total": 15
+  },
+  {
+    "name": "1.1.1",
+    "published_at": "2019-10-08T10:18:02Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.1.1-x86_64.AppImage",
+        "download_count": 3,
+        "os": "Linux AppImage"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.1.1.dmg.blockmap",
+        "download_count": 2,
+        "os": "mac dmg"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 1,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 1,
+        "os": "NA"
+      }
+    ],
+    "total": 7
+  },
+  {
+    "name": "1.0.9-alpha.2",
+    "published_at": "2019-10-04T11:47:43Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.0.9-alpha.2-x86_64.AppImage",
+        "download_count": 1,
+        "os": "Linux AppImage"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9-alpha.2.dmg",
+        "download_count": 4,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9-alpha.2.dmg.blockmap",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9-alpha.2.exe",
+        "download_count": 4,
+        "os": "Windows exe"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 1,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 1,
+        "os": "NA"
+      }
+    ],
+    "total": 12
+  },
+  {
+    "name": "1.0.9-alpha.1",
+    "published_at": "2019-08-20T16:54:13Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.0.9-alpha.1-x86_64.AppImage",
+        "download_count": 2,
+        "os": "Linux AppImage"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9-alpha.1.dmg",
+        "download_count": 19,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9-alpha.1.dmg.blockmap",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9-alpha.1.exe",
+        "download_count": 3,
+        "os": "Windows exe"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 1,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 1,
+        "os": "NA"
+      }
+    ],
+    "total": 27
+  },
+  {
+    "name": "1.0.9",
+    "published_at": "2019-08-15T12:23:25Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.0.9-x86_64.AppImage",
+        "download_count": 1,
+        "os": "Linux AppImage"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9.dmg",
+        "download_count": 4,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9.dmg.blockmap",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.9.exe",
+        "download_count": 2,
+        "os": "Windows exe"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 1,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 1,
+        "os": "NA"
+      }
+    ],
+    "total": 10
+  },
+  {
+    "name": "1.0.8-alpha.3",
+    "published_at": "2019-08-02T18:02:32Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.3-x86_64.AppImage",
+        "download_count": 1,
+        "os": "Linux AppImage"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.3.dmg",
+        "download_count": 13,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.3.dmg.blockmap",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.3.exe",
+        "download_count": 1,
+        "os": "Windows exe"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 1,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 1,
+        "os": "NA"
+      }
+    ],
+    "total": 18
+  },
+  {
+    "name": "1.0.8-alpha.1",
+    "published_at": "2019-08-01T15:04:39Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.1-x86_64.AppImage",
+        "download_count": 2,
+        "os": "Linux AppImage"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.1.dmg",
+        "download_count": 7,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.1.dmg.blockmap",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.1.exe",
+        "download_count": 1,
+        "os": "Windows exe"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 1,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 1,
+        "os": "NA"
+      }
+    ],
+    "total": 13
+  },
+  {
+    "name": "1.0.8-alpha.0",
+    "published_at": "2019-08-01T11:10:30Z",
+    "assets": [
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.0-x86_64.AppImage",
+        "download_count": 1,
+        "os": "Linux AppImage"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.0.dmg",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.0.dmg.blockmap",
+        "download_count": 1,
+        "os": "mac dmg"
+      },
+      {
+        "name": "digital-paper-edit-electron-1.0.8-alpha.0.exe",
+        "download_count": 1,
+        "os": "Windows exe"
+      },
+      {
+        "name": "latest-linux.yml",
+        "download_count": 1,
+        "os": "NA"
+      },
+      {
+        "name": "latest-mac.yml",
+        "download_count": 1,
+        "os": "NA"
+      }
+    ],
+    "total": 6
+  }
+]
