@@ -68,9 +68,12 @@ const overallTotalDownloadCountList = (versions) => {
   return versions.map((d) => {
     return d.total;
   });
-  // .reduce((acc, el) => {
-  //   return acc + el;
-  // });
+};
+
+const releasesLabels = (versions) => {
+  return versions.map((d) => {
+    return d.published_at;
+  });
 };
 
 const getGithubReleaseData = ({ userName, repoName }) => {
@@ -84,6 +87,7 @@ const getGithubReleaseData = ({ userName, repoName }) => {
         // the total for each release, across OS as a list
         totalList: overallTotalDownloadCountList(releases),
         releases,
+        labels: releasesLabels(releases),
       };
     });
 };
