@@ -9,6 +9,8 @@
     <meta name="Pietro Passarelli" content="Count Github Releases">
     <!-- <link rel="stylesheet" href="css/styles.css?v=1.0"> -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script type="text/javascript" src="./json-viewer-master/src/json-viewer.js"></script>
+    <link rel="stylesheet" type="text/css" href="./json-viewer-master/src/json-viewer.css">
 </head>
 
 <body>
@@ -24,6 +26,9 @@
         <input id="total" disabled></input>
         <hr>
         <canvas id="chartEl"></canvas>
+
+        <hr>
+        <div id="json"></div>
 
     </div>
     <script>
@@ -162,6 +167,12 @@
             );
 
             document.getElementById('total').value = total;
+
+
+            const jsonViewer = new JSONViewer();
+            document.querySelector("#json").appendChild(jsonViewer.getContainer());
+            // https://www.cssscript.com/minimal-json-data-formatter-jsonviewer/
+            jsonViewer.showJSON(res.releases, -1, -1);
         };
 
 

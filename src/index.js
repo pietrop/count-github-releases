@@ -76,7 +76,7 @@ const releasesLabels = (versions) => {
   });
 };
 
-const getGithubReleaseData = ({ userName, repoName }) => {
+const getGithubRelease = ({ userName, repoName }) => {
   const URL = makeUrl({ userName, repoName });
   return fetch(URL)
     .then((res) => res.json())
@@ -92,4 +92,4 @@ const getGithubReleaseData = ({ userName, repoName }) => {
     });
 };
 
-module.exports = getGithubReleaseData;
+module.exports = getGithubRelease;
